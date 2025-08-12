@@ -7,7 +7,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name:** Ida Rose Metiam
 
-**Hobbies:** 
+**Hobbies:** Baking, Swimming
 
 ## Section 1: Your First Commit
 
